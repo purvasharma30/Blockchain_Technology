@@ -1,2 +1,9 @@
-# Blockchain_Technology
-Foundations of Blockchain Technology - Notes + Previous Year Question Papers (pyq) - VIT VELLORE 
+# Foundations of Blockchain Technology
+
+Notes 
+
+Previous Year Question Papers (pyq) 
+
+Assignments
+
+VIT VELLORE 
